@@ -1,4 +1,4 @@
-from selenium import webdriver
+'''from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
@@ -27,3 +27,4 @@ for index,search_result in enumerate(search_results):
     
 
 browser.quit()
+'''
